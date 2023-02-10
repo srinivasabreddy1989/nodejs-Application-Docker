@@ -2,9 +2,9 @@
 Example - Dockerizing Node Js application
 https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
-Get the git URL for the code
-Get the instructions from the development team about how they build the application.
-Write Dockerfile
+1. Get the git URL for the code
+2. Get the instructions from the development team about how they build the application.
+3. Write Dockerfile
 FROM node:16
 LABEL AUTHOR="hari@javahome.in"
 LABEL APP="Web"
